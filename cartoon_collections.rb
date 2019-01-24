@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)# code an argument here
-  dwarves.each_with_index(1) do |dwarves|
+  dwarves.each_with_index do ||
   puts #{dwarves}
 end
 
